@@ -1,0 +1,8 @@
+**/.nb-gradle/
+**/build
+**/.gradle
+**/gradle
+**/nb-gradle
+**/node_modules
+**/bower_components
+**/.vertx
